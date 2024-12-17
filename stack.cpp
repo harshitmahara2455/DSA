@@ -1,3 +1,12 @@
+/*
+STack == it is a data structure which follows the concept 
+of last in first out 
+its top has a default value of -1 
+
+
+*/
+
+
 #include <iostream>
 using namespace std;
 

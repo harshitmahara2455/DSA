@@ -1,0 +1,12 @@
+data structure -- it is a mechainis  to show
+data in ther primary meomery for efficnt accessing 
+
+<-- good algorithm --->
+1- easy to understand 
+2- finite steps 
+3- accuracy 
+4- efficency 
+
+type of data structure 
+1- linear 
+2- non linear 

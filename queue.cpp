@@ -1,3 +1,10 @@
+/*
+queue is a data structure which follow the concept of 
+first in fisrt out 
+
+*/
+
+
 #include<iostream>
 #include<queue>
 using namespace std ; 
